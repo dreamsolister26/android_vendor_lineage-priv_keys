@@ -47,6 +47,7 @@ PRODUCT_CERTIFICATE_OVERRIDES := \
     com.android.sdkext:com.android.sdkext.certificate.override \
     com.android.support.apexer:com.android.support.apexer.certificate.override \
     com.android.telecom:com.android.telecom.certificate.override \
+    com.android.telecom.resources:com.android.telecom.resources.certificate.override \
     com.android.telecomui:com.android.telecomui.certificate.override \
     com.android.telephony:com.android.telephony.certificate.override \
     com.android.telephonycore:com.android.telephonycore.certificate.override \

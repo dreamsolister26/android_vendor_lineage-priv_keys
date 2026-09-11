@@ -231,6 +231,11 @@ android_app_certificate {
 }
 
 android_app_certificate {
+    name: "com.android.telecom.resources.certificate.override",
+    certificate: "com.android.telecom.resources.certificate.override",
+}
+
+android_app_certificate {
     name: "com.android.telecomui.certificate.override",
     certificate: "com.android.telecomui.certificate.override",
 }

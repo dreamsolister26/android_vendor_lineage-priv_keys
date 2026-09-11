@@ -63,6 +63,7 @@ apex_keys = [
     'com.android.sdkext',
     'com.android.support.apexer',
     'com.android.telecom',
+    'com.android.telecom.resources',
     'com.android.telecomui',
     'com.android.telephony',
     'com.android.telephonycore',
